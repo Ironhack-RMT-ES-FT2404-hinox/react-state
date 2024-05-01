@@ -4,3 +4,7 @@
   padding: 2rem;
   text-align: center;
 }
+
+.btn:active {
+  background-color: blue;
+}
